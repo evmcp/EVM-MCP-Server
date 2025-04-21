@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/evmcp/EVM-MCP-Server.git)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/EVMCPTool)
-[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=ethereum&logoColor=white)](https://evmcp.xyz/) <a href="https://evmcp.xyz/"><img src="evmcp.png" alt="EVMCP Logo" width="20" height="20"></a>
+[![Website](https://img.shields.io/badge/Website-black?style=flat)](https://evmcp.xyz/) <a href="https://evmcp.xyz/"><img src="evmcp.png" alt="EVMCP Logo" width="20" height="20"></a>
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![EVM Networks](https://img.shields.io/badge/Networks-30+-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)
@@ -505,4 +505,4 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/evmcp/EVM-MCP-Server.git)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/EVMCPTool)
-[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=ethereum&logoColor=white)](https://evmcp.xyz/) <a href="https://evmcp.xyz/"><img src="evmcp.png" alt="EVMCP Logo" width="20" height="20"></a>
+[![Website](https://img.shields.io/badge/Website-black?style=flat)](https://evmcp.xyz/) <a href="https://evmcp.xyz/"><img src="evmcp.png" alt="EVMCP Logo" width="20" height="20"></a>
